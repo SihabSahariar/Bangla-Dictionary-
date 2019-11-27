@@ -1,10 +1,10 @@
 It's a Bangla Dictionary based on a simple DB of 8667 words.
-##sub heading
+
 Information:
-+Programming Language: VB
-+Compiler: VB6
-+Database: MS Access 2003
-+Data: 8667
+- Programming Language: VB
+- Compiler: VB6
+- Database: MS Access 2003
+- Data: 8667
 
 Features:
 - Full Bangla Interface
