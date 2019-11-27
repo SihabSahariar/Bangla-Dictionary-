@@ -7,12 +7,12 @@ Information:
 +Data: 8667
 
 Features:
-+Full Bangla Interface
-+Attractive Interface with non border UI.
-+English to Bangla Dictionary.
-+Pronounciation
-+Easy & Friendly UI
-+Fully open source & free.
+- Full Bangla Interface
+- Attractive Interface with non border UI.
+- English to Bangla Dictionary.
+- Pronounciation
+- Easy & Friendly UI
+- Fully open source & free.
 
 Screenshot:
 
